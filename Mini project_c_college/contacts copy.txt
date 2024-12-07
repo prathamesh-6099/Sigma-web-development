@@ -1,0 +1,31 @@
+Exported Contact List:
+========================================
+Name: omkar mali
+Phone: 9545310847
+Email: 
+
+Address: 
+
+----------------------------------------
+Name: jayesh waradi
+Phone: 9945632547
+Email: jayesh@gmail.com
+Address: mawal
+----------------------------------------
+Name: pratham
+Phone: 
+
+Email: 
+
+Address: chakan
+----------------------------------------
+Name: prathamesh 
+Phone: dsw
+Email: sfs
+Address: wfew
+----------------------------------------
+Name: dfs
+Phone: fsf
+Email: eaf
+Address: df
+----------------------------------------
